@@ -7,9 +7,9 @@
     <string name="title_section3">Section 3</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_Album_fragment">Hello Album fragment</string>
-    <string name="hello_Artist_fragment">Hello Artist fragment</string>
-    <string name="hello_Songs_fragment">Hello Songs fragment</string>
-    <string name="hello_NowPlaying_fragment">Hello NowPlaying fragment</string>
+    <string name="hello_Album_fragment">Welcome to Album page</string>
+    <string name="hello_Artist_fragment">Welcome to Artist page</string>
+    <string name="hello_Songs_fragment">Welcome to Songs page</string>
+    <string name="hello_NowPlaying_fragment">Welcome to NowPlaying page</string>
 
 </resources>
